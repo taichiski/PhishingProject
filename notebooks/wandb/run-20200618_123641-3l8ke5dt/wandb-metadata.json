@@ -1,0 +1,26 @@
+{
+    "root": "/Users/timkwei/PhishingProject",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/taichiski/PhishingProject.git",
+        "commit": "04bc6963fe15075da89902617135f885ac39264c"
+    },
+    "email": "taichiski@gmail.com",
+    "startedAt": "2020-06-18T12:36:41.438064",
+    "host": "Timothys-MBP",
+    "username": "timkwei",
+    "executable": "/opt/anaconda3/bin/python",
+    "os": "Darwin-19.5.0-x86_64-i386-64bit",
+    "python": "3.7.6",
+    "cpu_count": 8,
+    "args": [
+        "-f",
+        "/Users/timkwei/Library/Jupyter/runtime/kernel-bf3b4e5d-132f-4dce-93eb-14bdee3dbc0b.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "logistic-regression-random-search",
+    "project": "phishing-websites-detection",
+    "heartbeatAt": "2020-06-18T12:36:42.862682"
+}
