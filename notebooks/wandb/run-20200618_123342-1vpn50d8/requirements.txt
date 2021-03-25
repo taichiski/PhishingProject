@@ -176,7 +176,7 @@ python-jsonrpc-server==0.3.4
 python-language-server==0.31.7
 pytz==2019.3
 pywavelets==1.1.1
-pyyaml==5.3
+pyyaml==5.4
 pyzmq==18.1.1
 qdarkstyle==2.8
 qtawesome==0.6.1
